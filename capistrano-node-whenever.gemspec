@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
   s.email         = 'tomcaflisch@gmail.com'
   s.files         = `git ls-files`.split("\n")
   s.license       = 'ISC'
+  s.summary       = 'Capistrano plugin for https://github.com/toymachiner62/node-whenever'
   s.description   = 'Capistrano plugin for https://github.com/toymachiner62/node-whenever'
   s.homepage      = 'https://github.com/toymachiner62/capistrano-node-whenever'
   s.require_paths = ["lib"]
