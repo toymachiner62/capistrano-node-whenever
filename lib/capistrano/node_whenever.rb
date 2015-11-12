@@ -1,0 +1,1 @@
+load File.expand_path("../node_whenever/tasks/tasks.rake", __FILE__)

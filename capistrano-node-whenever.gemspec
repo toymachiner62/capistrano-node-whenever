@@ -14,4 +14,6 @@ Gem::Specification.new do |s|
   s.description   = 'A simple description'
   s.homepage      = 'https://github.com/toymachiner62/capistrano-node-whenever'
   s.require_paths = ["lib"]
+
+  s.add_dependency 'capistrano', '~> 3.0'
 end
