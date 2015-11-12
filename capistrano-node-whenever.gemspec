@@ -6,12 +6,11 @@ Gem::Specification.new do |s|
   s.name          = 'capistrano-node-whenever'
   s.version       = Capistrano::NodeWhenever::VERSION
   s.date          = '2015-11-10'
-  s.summary       = 'Capistrano plugin for https://github.com/toymachiner62/node-whenever'
   s.author        = 'Tom Caflisch'
   s.email         = 'tomcaflisch@gmail.com'
   s.files         = `git ls-files`.split("\n")
   s.license       = 'ISC'
-  s.description   = 'Manage your crontab in Node.js via capistrano deployment'
+  s.description   = 'Capistrano plugin for https://github.com/toymachiner62/node-whenever'
   s.homepage      = 'https://github.com/toymachiner62/capistrano-node-whenever'
   s.require_paths = ["lib"]
 
