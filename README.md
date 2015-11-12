@@ -1,4 +1,5 @@
 > Capistrano plugin for [node-whenever](https://github.com/toymachiner62/node-whenever)
+[![Build Status](https://travis-ci.org/toymachiner62/capistrano-node-whenever.svg?branch=master)](https://travis-ci.org/toymachiner62/capistrano-node-whenever)
 
 # Install
 
