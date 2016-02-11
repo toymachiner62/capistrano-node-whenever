@@ -1,1 +1,1 @@
-load File.expand_path("../node_whenever/capistrano_node_whenever/tasks.rake", __FILE__)
+load File.expand_path("../node_whenever/capistrano_node_whenever.rake", __FILE__)
